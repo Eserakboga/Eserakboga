@@ -1,5 +1,8 @@
 # Eser Akboğa
 
+## Technologies
+C# • Python • SQL • MySQL • Linux • Arduino • Git • GitHub • Blender • Unity • Godot
+
 Vocational High School student specializing in Software Development. Ranked 1st among 10th-grade IT students at school level for the 2025-2026 Academic Year.
 
 I am building a comprehensive foundation in software engineering, computer hardware architecture, and digital fabrication. This profile acts as a real-world tracker for my vocational training, laboratory experiments, and independent technical projects.
@@ -36,13 +39,13 @@ I am building a comprehensive foundation in software engineering, computer hardw
 
 ### Hardware, Network & Fabrication
 * **IT Support** -> Component-level PC assembly, system hardware troubleshooting, parts synchronization, and OS deployment/formatting.
-* **Theoretical Knowledge** -> Deep understanding of motherboard schematics, PSU electrical values, GPU rendering pipelines, and storage drive mechanics.
+* **Theoretical Knowledge** -> Deep understanding of motherboard schematics, PSU electrical values, GPU architecture fundamentals, and storage drive mechanics.
 * **Network Engineering** -> Hands-on infrastructure wiring, specializing in terminating CAT6 cables into RJ45 connectors following standard TIA/EIA-568 color sequences.
 * **Digital Fabrication** -> Calibrating and operating Bambu Lab A1 3D printers and configuring Algolaser machinery for precise material engraving and cutting.
 
 ### Operating Systems
 * **Linux** -> Continuous daily use across school laboratory environments (Pardus) alongside independent configuration and testing of alternative Linux distributions.
-* **Windows** -> Advanced system configuration, debugging, registry adjustments, and automated deployment.
+* **Windows** -> Windows: Advanced troubleshooting, system configuration, operating system installation, driver management, and software deployment.
 
 ---
 
