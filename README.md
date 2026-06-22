@@ -1,53 +1,60 @@
 # Eser Akboğa
 
-Vocational High School Student specializing in Information Technology (Software Development). Ranked 1st (Top Student) among 10th-grade students at school level for the 2025-2026 Academic Year.
+Vocational High School student specializing in Software Development. Ranked 1st among 10th-grade IT students at school level for the 2025-2026 Academic Year.
 
-This profile serves as a formal documentation of my academic curriculum, laboratory practices, and self-taught software/hardware engineering milestones. All competencies listed below have been acquired through structured vocational education, hands-on laboratory applications, and personal research.
+I am building a comprehensive foundation in software engineering, computer hardware architecture, and digital fabrication. This profile acts as a real-world tracker for my vocational training, laboratory experiments, and independent technical projects.
 
 ---
 
-## Academic Curriculum & Laboratory Timeline
+## Academic Timeline & Laboratory Work
 
 ### 2024 - 2025 Academic Year
-* **Python Programming**: Focused on foundational algorithmic logic, core data types, conditional loops, list manipulation, and functional programming structures. Developed various console-based applications to solve computational problems.
-* **3D Design & Modeling**: Learned fundamental modeling, texturing (e.g., grass textures), and rendering workflows using Blender and Tinkercad. Formed basic assets such as coffee cups, soccer balls, and trash cans for scene composition.
-* **Computer Hardware Fundamentals**: Studied hardware architecture, component specifications, and assembly procedures in a practical laboratory environment.
+* **Python Programming** -> Mastered algorithmic fundamentals, data types, conditional structures, list manipulation, and functional programming logic.
+* **3D Modeling & Asset Creation** -> Learned modeling, texturing (e.g., custom grass shaders), and rendering pipelines using Blender and Tinkercad to create asset compositions like soccer balls, coffee cups, and trash cans.
+* **Computer Hardware Foundations** -> Studied physical motherboard layouts, peripheral interfaces, and step-by-step PC assembly workflows in a controlled laboratory environment.
 
 ### 2025 - 2026 Academic Year
-* **C# Object-Oriented Programming (OOP)**: Completed an intensive curriculum (10 hours per week) covering core OOP principles, classes, methods, and advanced programmatic logic using VS Code on Linux environments. Developed console games like Hangman to master logic workflows.
-* **Database Management Systems**: Applied knowledge in database design, manipulation, and local server connectivity using XAMPP and MySQL. Developed functional software solutions including a Student Registry System.
-* **Robotic Coding & Microcontrollers**: Worked with Arduino architectures and various components including NFC sensors, LDRs, LCD displays, and automated environmental systems (e.g., temperature/humidity monitoring and LDR-controlled automated lighting).
+* **C# & Object-Oriented Programming** -> Core focus on OOP principles, advanced class structures, and logical workflows via VS Code on Linux. Logged 10 intensive laboratory hours per week and built practical console applications including a Hangman logic game.
+* **Database Management Systems** -> Designed and managed database architectures using MySQL and XAMPP. Deployed a fully functional local Student Registry System to practice local server connectivity.
+* **Robotics & Microcontrollers** -> Programmed Arduino architectures to interface with hardware components including NFC sensors, LDRs, and LCD displays. Engineered automated environment systems like temperature trackers and light-sensitive automated lighting.
 
 ---
 
-## Projects & Extracurricular Milestones
+## Notable Experiences & Milestones
 
-* **TEKNOFEST 2026**: Acted as Project Manager, Lead Developer, and R&D Lead. Successfully managed the project lifecycle and passed the initial evaluation phase.
-* **TÜBİTAK Science Fair**: Conceptualized and deployed hardware-software integrated solutions, utilizing Raspberry Pi architectures for practical project applications.
+* **TEKNOFEST 2026** -> Due to our team operating with limited members, I took on the combined responsibilities of Project Manager, Lead Developer, and R&D Lead. Managed the project lifecycle and successfully navigated past the initial evaluation phase.
+* **TÜBİTAK Science Fair** -> Designed and implemented hardware-software integrated systems utilizing Raspberry Pi architectures for practical project deployment.
 
 ---
 
-## Technical Skills & Competencies
+## Technical Skills Inventory
 
-### Digital Fabrication & Rapid Prototyping
-* **3D Printing**: Hands-on experience in operating, calibrating, and configuring Bambu Lab A1 3D printers for component manufacturing.
-* **Laser Engraving & Cutting**: Competent in utilizing Algolaser cutting and engraving machinery for material processing within project development workflows.
+### Software & Databases
+* **Languages** -> C# (OOP Focused), Pythonhttps://github.com/Eserakboga/Eserakboga/blob/main/README.md
+* **Database Tools** -> MySQL, XAMPP Local Server Environments
+* **Game Development** -> Unity & Godot (2D Architecture), Roblox Studio (3D Multiplayer environment logic)
+
+### Hardware, Network & Fabrication
+* **IT Support** -> Component-level PC assembly, system hardware troubleshooting, parts synchronization, and OS deployment/formatting.
+* **Theoretical Knowledge** -> Deep understanding of motherboard schematics, PSU electrical values, GPU rendering pipelines, and storage drive mechanics.
+* **Network Engineering** -> Hands-on infrastructure wiring, specializing in terminating CAT6 cables into RJ45 connectors following standard TIA/EIA-568 color sequences.
+* **Digital Fabrication** -> Calibrating and operating Bambu Lab A1 3D printers and configuring Algolaser machinery for precise material engraving and cutting.
 
 ### Operating Systems
-* **Linux**: Continuous, daily utilization across academic laboratory environments (Pardus) and personal deployment of various experimental Linux distributions.
-* **Windows**: Advanced configuration, deployment, and system installation automation.
-
-### Game Development
-* **2D Game Engines**: Developing 2D applications using Unity and Godot (Low to Mid-Level proficiency) with structured, self-taught workflows and AI-assisted optimization/debugging.
-* **3D Multiplayer Environments**: Experienced in architectural layout and logic handling for multiplayer environments (Roblox Engine background).
-
-### IT Support & Network Infrastructure
-* **Hardware Fundamentals**: Professional PC assembly, hardware troubleshooting, component synchronization, and system formatting.
-* **Theoretical IT Knowledge**: Comprehensive understanding of motherboard architectures, power supply unit (PSU) electrical values, GPU pipelines, storage disk mechanics, and peripheral display technologies.
-* **Network Fundamentals**: Hands-on experience in infrastructure cabling, specifically terminating CAT6 cables with RJ45 connectors according to standard color-coding sequences (TIA/EIA-568).
+* **Linux** -> Continuous daily use across school laboratory environments (Pardus) alongside independent configuration and testing of alternative Linux distributions.
+* **Windows** -> Advanced system configuration, debugging, registry adjustments, and automated deployment.
 
 ---
 
-## Future Objectives
-* To continuously expand this repository with rigorous academic and personal projects throughout my high school education.
-* To transition into higher education within the field of Computer Engineering, bridging vocational hardware/software foundations with advanced academic theories.
+## Current Focus Areas
+* Front-end web development paths focusing on HTML and CSS.
+* Expanding game logic complexity within the Godot 2D engine.
+
+---
+
+## Future Goals
+* To consistently update this profile with production-ready repositories and academic source codes throughout my high school journey.
+* To pursue a Bachelor's Degree in Computer Engineering, bridging my practical vocational IT foundations with advanced theoretical computing science.
+---
+## Projects
+*(Currently organizing and pushing local project folders to GitHub. Repositories and live links will appear right here shortly!)*
