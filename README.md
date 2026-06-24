@@ -59,8 +59,7 @@ C# • Python • SQL • MySQL • Linux • Arduino • Git • GitHub • Ble
 
 ## Future Goals
 * To consistently update this profile with production-ready repositories and academic source codes throughout my high school journey.
-* To pursue a Bachelor's Degree in Computer Engineering, bridging my practical vocational IT foundations with advanced theoretical computing science.
-* 
+* To pursue a Bachelor's Degree in Computer Engineering, bridging my practical vocational IT foundations with advanced theoretical computing science. 
 ---
 
 ## Projects
