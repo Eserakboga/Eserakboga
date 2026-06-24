@@ -1,7 +1,7 @@
-# Eser Akboğa
-
 ## Technologies
 C# • Python • SQL • MySQL • Linux • Arduino • Git • GitHub • Blender • Unity • Godot
+
+# Eser Akboğa
 
 Vocational High School student specializing in Software Development. Ranked 1st among 10th-grade IT students at school level for the 2025-2026 Academic Year.
 
@@ -12,7 +12,7 @@ I am building a comprehensive foundation in software engineering, computer hardw
 ## Academic Timeline & Laboratory Work
 
 ### 2024 - 2025 Academic Year
-* **Python Programming** -> Mastered algorithmic fundamentals, data types, conditional structures, list manipulation, and functional programming logic.
+* **Python Programming** -> Learned algorithmic fundamentals, data types, conditional structures, list manipulation, and functional programming logic.
 * **3D Modeling & Asset Creation** -> Learned modeling, texturing (e.g., custom grass shaders), and rendering pipelines using Blender and Tinkercad to create asset compositions like soccer balls, coffee cups, and trash cans.
 * **Computer Hardware Foundations** -> Studied physical motherboard layouts, peripheral interfaces, and step-by-step PC assembly workflows in a controlled laboratory environment.
 
@@ -33,13 +33,13 @@ I am building a comprehensive foundation in software engineering, computer hardw
 ## Technical Skills Inventory
 
 ### Software & Databases
-* **Languages** -> C# (OOP Focused), Pythonhttps://github.com/Eserakboga/Eserakboga/blob/main/README.md
+* **Languages** -> C# (OOP Focused), Python
 * **Database Tools** -> MySQL, XAMPP Local Server Environments
 * **Game Development** -> Unity & Godot (2D Architecture), Roblox Studio (3D Multiplayer environment logic)
 
 ### Hardware, Network & Fabrication
 * **IT Support** -> Component-level PC assembly, system hardware troubleshooting, parts synchronization, and OS deployment/formatting.
-* **Theoretical Knowledge** -> Deep understanding of motherboard schematics, PSU electrical values, GPU architecture fundamentals, and storage drive mechanics.
+* **Theoretical Knowledge** -> Solid understanding of motherboard schematics, PSU electrical values, GPU architecture fundamentals, and storage drive mechanics.
 * **Network Engineering** -> Hands-on infrastructure wiring, specializing in terminating CAT6 cables into RJ45 connectors following standard TIA/EIA-568 color sequences.
 * **Digital Fabrication** -> Calibrating and operating Bambu Lab A1 3D printers and configuring Algolaser machinery for precise material engraving and cutting.
 
