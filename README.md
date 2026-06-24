@@ -1,11 +1,13 @@
-## Technologies
-C# • Python • SQL • MySQL • Linux • Arduino • Git • GitHub • Blender • Unity • Godot
-
 # Eser Akboğa
 
 Vocational High School student specializing in Software Development. Ranked 1st among 10th-grade IT students at school level for the 2025-2026 Academic Year.
 
 I am building a comprehensive foundation in software engineering, computer hardware architecture, and digital fabrication. This profile acts as a real-world tracker for my vocational training, laboratory experiments, and independent technical projects.
+
+---
+
+## Technologies
+C# • Python • SQL • MySQL • Linux • Arduino • Git • GitHub • Blender • Unity • Godot
 
 ---
 
@@ -25,8 +27,8 @@ I am building a comprehensive foundation in software engineering, computer hardw
 
 ## Notable Experiences & Milestones
 
-* **TEKNOFEST 2026** -> Due to our team operating with limited members, I took on the combined responsibilities of Project Manager, Lead Developer, and R&D Lead. Managed the project lifecycle and successfully navigated past the initial evaluation phase.
-* **TÜBİTAK Science Fair** -> Designed and implemented hardware-software integrated systems utilizing Raspberry Pi architectures for practical project deployment.
+* **TEKNOFEST** -> Managed the project lifecycle and successfully navigated past the initial evaluation phase.
+* **TUBITAK Science Fair** -> Due to our team operating with limited members, I took on the combined responsibilities of Project Manager, Lead Developer, and R&D Lead. Designed and implemented hardware-software integrated systems utilizing Raspberry Pi architectures for practical project deployment.
 
 ---
 
@@ -38,14 +40,14 @@ I am building a comprehensive foundation in software engineering, computer hardw
 * **Game Development** -> Unity & Godot (2D Architecture), Roblox Studio (3D Multiplayer environment logic)
 
 ### Hardware, Network & Fabrication
-* **IT Support** -> Component-level PC assembly, system hardware troubleshooting, parts synchronization, and OS deployment/formatting.
-* **Theoretical Knowledge** -> Solid understanding of motherboard schematics, PSU electrical values, GPU architecture fundamentals, and storage drive mechanics.
+* **IT Support** -> Component-level PC assembly, system hardware troubleshooting, component installation and compatibility verification, OS deployment/formatting.
+* **Theoretical Knowledge** -> Solid understanding of motherboard architectures, PSU electrical values, GPU architecture fundamentals, and storage drive mechanics.
 * **Network Engineering** -> Hands-on infrastructure wiring, specializing in terminating CAT6 cables into RJ45 connectors following standard TIA/EIA-568 color sequences.
 * **Digital Fabrication** -> Calibrating and operating Bambu Lab A1 3D printers and configuring Algolaser machinery for precise material engraving and cutting.
 
 ### Operating Systems
 * **Linux** -> Continuous daily use across school laboratory environments (Pardus) alongside independent configuration and testing of alternative Linux distributions.
-* **Windows** -> Windows: Advanced troubleshooting, system configuration, operating system installation, driver management, and software deployment.
+* **Windows** -> Advanced troubleshooting, system configuration, operating system installation, driver management, and software deployment.
 
 ---
 
@@ -58,6 +60,8 @@ I am building a comprehensive foundation in software engineering, computer hardw
 ## Future Goals
 * To consistently update this profile with production-ready repositories and academic source codes throughout my high school journey.
 * To pursue a Bachelor's Degree in Computer Engineering, bridging my practical vocational IT foundations with advanced theoretical computing science.
+* 
 ---
+
 ## Projects
 *(Currently organizing and pushing local project folders to GitHub. Repositories and live links will appear right here shortly!)*
